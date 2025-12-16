@@ -4,8 +4,8 @@ import threading
 import time
 
 # Target IP dan Port
-target_ip = "127.0.0.1" # GANTI SAMA IP KORBAN ASLI LU!
-target_port = 80 # GANTI SAMA PORT KORBAN ASLI LU!
+target_ip = "172.67.186.161" # GANTI SAMA IP KORBAN ASLI LU!
+target_port = 443 # GANTI SAMA PORT KORBAN ASLI LU!
 fake_ip = '182.21.20.5' # IP PALSU BIAR LO GAK KETAHUAN
 
 # Payload: Sampah data biar paketnya gede
